@@ -58,7 +58,7 @@
 
 ## Contributing to Open Source in general
 
-> Articles and resources that discuss the world and culture of Open Source.
+> ఓపెన్ సోర్స్ యొక్క ప్రపంచం మరియు సంస్కృతిని చర్చించే కథనాలు మరియు వనరులు.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - గిట్హబ్ లో విజయాన్ని అందించడానికి మీ మార్గంలో మీకు మార్గనిర్దేశం చేసేందుకు DigitalOcean ద్వారా ట్యుటోరియల్స్.
