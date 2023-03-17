@@ -38,11 +38,11 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-This is a list of resources for people who are new to contributing to Open Source.
+ఇది ఓపెన్ సోర్స్‌కి కొత్తగా సహకరించే వ్యక్తుల కోసం వనరుల జాబితా.
 
-If you find additional resources, please create a pull request.
+మీరు అదనపు వనరులను కనుగొంటే, దయచేసి పుల్ అభ్యర్థనను సృష్టించండి.
 
-If you have questions or comments, please create an issue.
+మీకు ప్రశ్నలు లేదా వ్యాఖ్యలు ఉంటే, దయచేసి సమస్యను సృష్టించండి.
 
 **Contents**
 
@@ -61,8 +61,8 @@ If you have questions or comments, please create an issue.
 > Articles and resources that discuss the world and culture of Open Source.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - గిట్హబ్ లో విజయాన్ని అందించడానికి మీ మార్గంలో మీకు మార్గనిర్దేశం చేసేందుకు DigitalOcean ద్వారా ట్యుటోరియల్స్.
+- [Code Triage](https://www.codetriage.com/) - జనాదరణ పొందిన రిపోజిటరీలు మరియు భాష ద్వారా ఫిల్టర్ చేయబడిన సమస్యలను కనుగొనడానికి మరొక్క చక్కటి పనిముట్టు
 - [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
